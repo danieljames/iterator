@@ -120,7 +120,7 @@ templates.
 [def _transform_   [link iterator.specialized.transform `transform_iterator`]]
 [def _zip_         [link iterator.specialized.zip `zip_iterator`]]
 
-[def _shared_ptr_  [@../../smart_ptr/shared_ptr.htm `shared_ptr`]]
+[def _shared_ptr_  [@../../../smart_ptr/doc/html/smart_ptr.html#shared_ptr `shared_ptr`]]
 
 * _counting_: an iterator over a sequence of consecutive values.
   Implements a "lazy sequence"
@@ -160,7 +160,7 @@ templates.
 [def _pointee_          [link iterator.utilities.traits `pointee.hpp`]]
 [def _iterator_traits_  [link iterator.utilities.iterator_traits `iterator_traits.hpp`]]
 [def _interoperable_    [@../interoperable.html   `interoperable.hpp`]]
-[def _MPL_              [@../../mpl/doc/index.html   [*MPL]]]
+[def _MPL_              [@../../../mpl/doc/index.html   [*MPL]]]
 
 * _pointee_: Provides the capability to deduce the referent types
   of pointers, smart pointers and iterators in generic code.  Used

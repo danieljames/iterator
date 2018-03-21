@@ -254,10 +254,8 @@ make them private and grant friendship to
   };
 
 Voila; a complete and conforming readable, forward-traversal
-iterator!  For a working example of its use, see 
-[@../example/node_iterator1.cpp `this program`].
-
-__ ../example/node_iterator1.cpp
+iterator!  For a working example of its use, see
+[@../../example/node_iterator1.cpp `this program`].
 
 [h2 A constant `node_iterator`]
 
@@ -428,11 +426,9 @@ adding a templatized converting constructor [#broken]_ [#random]_:
    `distance_to` function as well.
 
 
-__ ../example/node_iterator2.hpp
-
 You can see an example program which exercises our interoperable
-iterators 
-[@../example/node_iterator2.cpp `here`].
+iterators
+[@../../example/node_iterator2.cpp `here`].
 
 
 [h2 Telling the Truth]

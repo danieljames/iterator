@@ -72,8 +72,8 @@ The output is:
     a,b,c,d,e,f,g,
 
 
-The source code for this example can be found 
-[@../example/indirect_iterator_example.cpp here].
+The source code for this example can be found
+[@../../example/indirect_iterator_example.cpp here].
 
 
 [h2 Reference]

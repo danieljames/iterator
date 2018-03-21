@@ -287,8 +287,8 @@ this technique is known not to work with Borland C++ 5.6.4 and
 Metrowerks CodeWarrior versions prior to 9.0]
 
 You can see an example program that exercises this version of the
-node iterators 
-[@../example/node_iterator3.cpp `here`].
+node iterators
+[@../../example/node_iterator3.cpp `here`].
 
 
 In the case of `node_iter`, it's not very compelling to pass
